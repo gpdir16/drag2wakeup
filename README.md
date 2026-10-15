@@ -2,6 +2,8 @@
 
 A tiny macOS menu bar app. Drag the icon down to keep your Mac awake.
 
+https://github.com/user-attachments/assets/5dbcd8a3-a066-4c00-b613-b24b80e89fdf
+
 ## Usage
 
 Press and hold the cup icon in the menu bar, drag down, then let go.
